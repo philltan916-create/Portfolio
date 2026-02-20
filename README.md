@@ -1,3 +1,70 @@
 # Portfolio
 Hopefully Fixed my portfolio
+<!DOCTYPE html>
+<html lang="en">
+
+<head> 
+    <meta charset="utf-8">
+    <title> My Portfolio</title>
+    <head>
+      
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap" rel="stylesheet">
+
+    
+    <link rel="stylesheet" href="css-styles/portfolio-styles.css">
+</head>
+
+<body>
+  
+
+  <header class="hero">
+    <h1>Tanner</h1>
+    <p class="subtitle">Frontend Developer</p>
+  </header>
+
+  <main class="container">
+
+    <section class="about">
+      <h2>About Me</h2>
+      <p>
+        I'm a passionate web developer building clean and responsive
+        websites using HTML and CSS.
+      </p>
+    </section>
+
+    <section class="projects">
+      <h2>My Projects</h2>
+
+      <article class="project-card">
+        <h3>Magic Tavern</h3>
+        <p>A fantasy-themed webpage built with HTML and CSS.</p>
+        <a href="index3.html" target="_blank">View Project →</a>
+      </article>
+
+      <article class="project-card">
+        <h3>Kitties To Go</h3>
+        <p>A mock business website built from a PDF design.</p>
+        <a href="https://philltan916-create.github.io/K-T-G/" target="_blank">View Project →</a>
+      </article>
+
+    </section>
+
+  </main>
+
+  <footer>
+    <p>© 2026 Tanner</p>
+  </footer>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
 
