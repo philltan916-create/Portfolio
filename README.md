@@ -2,10 +2,7 @@
 Hopefully Fixed my portfolio
 
 
-<head> 
-    <meta charset="utf-8">
-    <title> My Portfolio</title>
-    <head>
+
       
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
